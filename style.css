@@ -1,0 +1,22 @@
+body{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dices{
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    padding: 14px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(165, 42, 42, 0.589);
+    position: relative;
+    left: 15%;
+}
